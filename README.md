@@ -3,8 +3,6 @@
 
 [传送门](https://www.bilibili.com/video/av38379328?from=search&seid=7596645727302886436) 
 
-如有问题，请联系我：i@itpoet.cn  
-
 - [01 TypeScript在VS Code中配置自动编译](https://github.com/itPoet/typescript-study-tutorial/tree/master/01%20TypeScript%E5%9C%A8VS%20Code%E4%B8%AD%E9%85%8D%E7%BD%AE%E8%87%AA%E5%8A%A8%E7%BC%96%E8%AF%91)
 - [02 TypeScript 数据类型](https://github.com/itPoet/typescript-study-tutorial/tree/master/02%20TypeScript%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 - [03 TypeScript函数定义](https://github.com/itPoet/typescript-study-tutorial/tree/master/03%20TypeScript%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89)
